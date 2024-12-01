@@ -100,3 +100,7 @@ Compare this schema to the one defined in #file:schema.prisma, and provide prism
 ---
 
 Can you provide the SQL file with the required changes?
+
+---
+
+Can you also provide the DDL script to generate the original database schema?
